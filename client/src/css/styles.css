@@ -1,0 +1,94 @@
+/* Main Application */
+#main {
+  font-family: sans-serif;
+  padding: 0px;
+  box-sizing: border-box;
+  width: 60%;
+  height: 100%;
+}
+
+#main h1 {
+  color: #444;
+  text-align: center;
+}
+
+
+
+
+/* Component: Add Book */
+#add-book {
+
+}
+
+form {
+  background: #fff;
+  padding: 20px;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 400px;
+}
+
+form.field {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+form.label {
+  text-align: right;
+  padding: 6px;
+}
+
+form select, form input {
+  margin: 4px;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+form button {
+  color: #fff;
+  background-color: #AD1457;
+  border-radius: 15px 15px 15px 15px;
+  cursor: pointer;
+  position: center;
+  font-size: 14px;
+  padding: 10px;
+}
+
+
+
+
+/* Component: Book List */
+#book-list {
+  padding: 0px;
+}
+
+#book-list li {
+  display: inline-block;
+  margin: 12px;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #880E4F;
+  box-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+  cursor: pointer;
+  color: #880E4F;
+}
+
+
+
+
+/* Component: Book Details */
+#book-details {
+  background: #AD1457;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  width: 40%;
+  height: 100%;
+  padding: 30px;
+  overflow: auto;
+  box-shadow: -2px -3px 5px rgba(0,0,0,0.3);
+  box-sizing: border-box;
+  color: #fff
+}
