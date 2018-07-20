@@ -6,10 +6,14 @@ import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
 
 // Imports: Components
-import TestComponent from './components/TestComponent.jsx';
+import Population from './components/Population.jsx';
+import EmploymentUnemployment from './components/EmploymentUnemployment.jsx';
+import Economy from './components/Economy.jsx';
+import Crime from './components/Crime.jsx';
 
 // Imports: CSS
 import './css/styles.css';
+
 
 // Setup: Apollo
 const CLIENT = new ApolloClient({
@@ -22,7 +26,10 @@ class App extends Component {
     return (
       <ApolloProvider client={CLIENT}>
         <div id="main">
-          <TestComponent />
+          <Population />
+          <EmploymentUnemployment />
+          <Economy />
+          <Crime />
         </div>
       </ApolloProvider>
     );
