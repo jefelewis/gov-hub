@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
-    "server": "babel-node ./server/server.js",
+    "server": "nodemon --exec babel-node ./server/server.js",
     "build": "webpack --mode production",
     "test": "jest"
   },
