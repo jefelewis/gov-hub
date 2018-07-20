@@ -1,7 +1,3 @@
-// Imports: GraphQL Resolvers
-import RESOLVERS from './resolvers';
-
-
 // GraphQL: TypeDefs
 const TYPEDEFS = `
   type Query {
