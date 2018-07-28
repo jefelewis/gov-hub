@@ -14,8 +14,13 @@ class SmokingUsers extends Component {
     super(props);
 
     this.state = {
-
+      SmokingUsers: [] || {}
     };
+  }
+
+  // Retrieve Smoking Users Data
+  componentWillMount() {
+
   }
 
   // Render

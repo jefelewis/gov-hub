@@ -14,8 +14,13 @@ class LifeExpectancy extends Component {
     super(props);
 
     this.state = {
-
+      LifeExpectancy: [] || {}
     };
+  }
+
+  // Retrieve Life Expectancy Data
+  componentWillMount() {
+
   }
 
   // Render

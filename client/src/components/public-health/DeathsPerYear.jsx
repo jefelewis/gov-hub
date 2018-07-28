@@ -14,8 +14,13 @@ class DeathsPerYear extends Component {
     super(props);
 
     this.state = {
-
+      DeathsPerYear: [] || {}
     };
+  }
+
+  // Retrieve Deaths Per Year Data
+  componentWillMount() {
+
   }
 
   // Render

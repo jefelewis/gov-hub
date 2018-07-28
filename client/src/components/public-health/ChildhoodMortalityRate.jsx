@@ -14,8 +14,13 @@ class ChildhoodMortalityRate extends Component {
     super(props);
 
     this.state = {
-
+      ChildhoodMortalityRate: [] || {}
     };
+  }
+
+  // Retrieve Childhood Mortality Rate Data
+  componentWillMount() {
+
   }
 
   // Render

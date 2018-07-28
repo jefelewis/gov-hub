@@ -14,8 +14,13 @@ class UnmarriedBirths extends Component {
     super(props);
 
     this.state = {
-
+      UnmarriedBirths: [] || {}
     };
+  }
+
+  // Retrieve Unmarried Data
+  componentWillMount() {
+
   }
 
   // Render

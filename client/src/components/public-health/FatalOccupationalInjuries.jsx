@@ -12,10 +12,14 @@ class FatalOccupationalInjuries extends Component {
 
   constructor(props) {
     super(props);
-
     this.state = {
-
+      FatalOccupationalInjuries: [] || {}
     };
+  }
+
+  // Retrieve Fatal Occupational Injuries Data
+  componentWillMount() {
+
   }
 
   // Render

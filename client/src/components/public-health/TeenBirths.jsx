@@ -4,6 +4,9 @@ import React, { Component } from 'react';
 // Imports: Apollo
 import { graphql, compose } from 'react-apollo';
 
+// Imports: Axios
+import axios from 'axios';
+
 // Imports: Apollo Queries
 
 
@@ -14,8 +17,13 @@ class TeenBirths extends Component {
     super(props);
 
     this.state = {
-
+      TeenBirths: [] || {}
     };
+  }
+
+  // Retrieve Teen Births Data
+  componentWillMount() {
+
   }
 
   // Render

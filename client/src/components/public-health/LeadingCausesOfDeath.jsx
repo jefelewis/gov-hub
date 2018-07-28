@@ -14,8 +14,13 @@ class LeadingCausesOfDeath extends Component {
     super(props);
 
     this.state = {
-
+      LeadingCausesOfDeath: [] || {}
     };
+  }
+
+  // Retrieve Leading Causes Of Death Data
+  componentWillMount() {
+
   }
 
   // Render

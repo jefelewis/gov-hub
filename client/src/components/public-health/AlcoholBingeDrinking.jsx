@@ -14,8 +14,13 @@ class AlcoholBingeDrinking extends Component {
     super(props);
 
     this.state = {
-
+      AlcoholBingeDrinking: [] || {}
     };
+  }
+
+  // Retrieve Alcohol Bing Drinking Data
+  componentWillMount() {
+
   }
 
   // Render

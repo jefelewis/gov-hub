@@ -14,8 +14,13 @@ class DrugOverdoses extends Component {
     super(props);
 
     this.state = {
-
+      drugOverdoses: [] || {}
     };
+  }
+
+  // Retrieve Drug Overdose Data
+  componentWillMount() {
+
   }
 
   // Render

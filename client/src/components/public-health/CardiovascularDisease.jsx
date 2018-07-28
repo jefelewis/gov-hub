@@ -14,10 +14,15 @@ class CardiovascularDisease extends Component {
     super(props);
 
     this.state = {
-
+      CardiovascularDisease: [] || {}
     };
   }
 
+  // Retrieve Cardiovascular Disease Data
+  componentWillMount() {
+
+  }
+  
   // Render
   render() {
     return (

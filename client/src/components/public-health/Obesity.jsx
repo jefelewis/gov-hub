@@ -14,8 +14,13 @@ class Obesity extends Component {
     super(props);
 
     this.state = {
-
+      Obesity: [] || {}
     };
+  }
+
+  // Retrieve Obesity Data
+  componentWillMount() {
+
   }
 
   // Render
