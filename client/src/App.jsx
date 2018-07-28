@@ -5,14 +5,19 @@ import React, { Component } from 'react';
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
 
-// Imports: Components
-import Population from './components/Population.jsx';
-import EmploymentUnemployment from './components/EmploymentUnemployment.jsx';
-import Economy from './components/Economy.jsx';
-import Crime from './components/Crime.jsx';
-
-// Imports: CSS
+// Imports: CSS + Components
 import './css/styles.css';
+import AlcoholBingeDrinking from './components/public-health/AlcoholBingeDrinking';
+import CardiovascularDisease from './components/public-health/CardiovascularDisease';
+import ChildhoodMortalityRate from './components/public-health/ChildhoodMortalityRate';
+import DeathsPerYear from './components/public-health/DeathsPerYear';
+import FatalOccupationalInjuries from './components/public-health/FatalOccupationalInjuries';
+import LeadingCausesOfDeath from './components/public-health/LeadingCausesOfDeath';
+import LifeExpectancy from './components/public-health/LifeExpectancy';
+import SmokingUsers from './components/public-health/SmokingUsers';
+import TeenBirths from './components/public-health/TeenBirths';
+import TobaccoUsers from './components/public-health/TobaccoUsers';
+import UnmarriedBirths from './components/public-health/UnmarriedBirths';
 
 
 // Setup: Apollo
@@ -26,10 +31,19 @@ class App extends Component {
     return (
       <ApolloProvider client={CLIENT}>
         <div id="main">
-          <Population />
-          <EmploymentUnemployment />
-          <Economy />
-          <Crime />
+          <AlcoholBingeDrinking />
+          <CardiovascularDisease />
+          <ChildhoodMortalityRate />
+          <DeathsPerYear />
+          <DrugOverdoses />
+          <FatalOccupationalInjuries />
+          <LeadingCausesOfDeath />
+          <LifeExpectancy />
+          <Obesity />
+          <SmokingUsers />
+          <TeenBirths />
+          <TobaccoUsers />
+          <UnmarriedBirths />
         </div>
       </ApolloProvider>
     );
