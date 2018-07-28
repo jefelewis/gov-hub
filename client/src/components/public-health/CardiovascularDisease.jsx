@@ -7,8 +7,8 @@ import { graphql, compose } from 'react-apollo';
 // Imports: Apollo Queries
 
 
-// Component: BookList
-class EmploymentUnemployment extends Component {
+// Component: CardiovascularDisease
+class CardiovascularDisease extends Component {
 
   constructor(props) {
     super(props);
@@ -22,8 +22,7 @@ class EmploymentUnemployment extends Component {
   render() {
     return (
       <div>
-        <p>Employment</p>
-        <p>Unemployment</p>
+        <p>Crime</p>
       </div>
     )
   }
@@ -34,4 +33,4 @@ class EmploymentUnemployment extends Component {
 
 // Exports (Binding the getAuthors query with the AddBook component)
 // graphql(Query)(Component)
-export default EmploymentUnemployment
+export default CardiovascularDisease
