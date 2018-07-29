@@ -1,10 +1,10 @@
 /* Main Application */
 #main {
   background-color: #12263F;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
 }
 
 h1 {
   font: bold;
-  font-color: #000000;
-
 }
