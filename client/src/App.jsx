@@ -5,20 +5,22 @@ import React, { Component } from 'react';
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
 
-// Imports: CSS + Components
+// Imports: CSS
 import './css/styles.css';
 
-// import AlcoholBingeDrinking from './components/public-health/AlcoholBingeDrinking';
-// import CardiovascularDisease from './components/public-health/CardiovascularDisease';
-// import ChildhoodMortalityRate from './components/public-health/ChildhoodMortalityRate';
-// import DeathsPerYear from './components/public-health/DeathsPerYear';
-// import FatalOccupationalInjuries from './components/public-health/FatalOccupationalInjuries';
-// import LeadingCausesOfDeath from './components/public-health/LeadingCausesOfDeath';
-// import LifeExpectancy from './components/public-health/LifeExpectancy';
-// import SmokingUsers from './components/public-health/SmokingUsers';
-// import TeenBirths from './components/public-health/TeenBirths';
-// import TobaccoUsers from './components/public-health/TobaccoUsers';
-// import UnmarriedBirths from './components/public-health/UnmarriedBirths';
+// Imports: React Components
+import NavagationBar from './components/NavigationBar.jsx'
+// import AlcoholBingeDrinking from './components/public-health/AlcoholBingeDrinking.jsx';
+// import CardiovascularDisease from './components/public-health/CardiovascularDisease.jsx';
+// import ChildhoodMortalityRate from './components/public-health/ChildhoodMortalityRate.jsx';
+// import DeathsPerYear from './components/public-health/DeathsPerYear.jsx';
+// import FatalOccupationalInjuries from './components/public-health/FatalOccupationalInjuries.jsx';
+// import LeadingCausesOfDeath from './components/public-health/LeadingCausesOfDeath.jsx';
+// import LifeExpectancy from './components/public-health/LifeExpectancy.jsx';
+// import SmokingUsers from './components/public-health/SmokingUsers.jsx';
+// import TeenBirths from './components/public-health/TeenBirths.jsx';
+// import TobaccoUsers from './components/public-health/TobaccoUsers.jsx';
+// import UnmarriedBirths from './components/public-health/UnmarriedBirths.jsx';
 
 
 // Setup: Apollo
@@ -32,7 +34,8 @@ class App extends Component {
     return (
       <ApolloProvider client={CLIENT}>
         <div id="main">
-          <h1>Title</h1>
+          <h1>Gov Hub</h1>
+          <NavagationBar />
 
         </div>
       </ApolloProvider>
