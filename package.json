@@ -24,6 +24,7 @@
     "apollo-server-express": "^2.0.0",
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
+    "chart.js": "^2.7.2",
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "file-loader": "^1.1.11",
