@@ -37,7 +37,7 @@ const CONFIG = {
   // Plugins
   plugins: [
     new HTMLWEBPACKPLUGIN({
-      template: './client/src/index.html'
+      template: './client/dist/index.html'
     })
   ]
 };
