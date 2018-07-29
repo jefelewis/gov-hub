@@ -1,4 +1,10 @@
 /* Main Application */
 #main {
-  background-color: #12263F 
+  background-color: #12263F;
+}
+
+h1 {
+  font: bold;
+  font-color: #000000;
+
 }

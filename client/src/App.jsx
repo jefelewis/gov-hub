@@ -31,19 +31,8 @@ class App extends Component {
     return (
       <ApolloProvider client={CLIENT}>
         <div id="main">
-          <AlcoholBingeDrinking />
-          <CardiovascularDisease />
-          <ChildhoodMortalityRate />
-          <DeathsPerYear />
-          <DrugOverdoses />
-          <FatalOccupationalInjuries />
-          <LeadingCausesOfDeath />
-          <LifeExpectancy />
-          <Obesity />
-          <SmokingUsers />
-          <TeenBirths />
-          <TobaccoUsers />
-          <UnmarriedBirths />
+          <h1>Title</h1>
+
         </div>
       </ApolloProvider>
     );
