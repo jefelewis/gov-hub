@@ -1,0 +1,552 @@
+[
+  { 
+    "state": "Alaska",
+    "state_abbreviation": "AK",
+    "medicinal_legal": true ,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true  ,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Alabama",
+    "state_abbreviation": "AL",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Arkansas",
+    "state_abbreviation": "AR",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  }, 
+  { 
+    "state": "American Samoa",
+    "state_abbreviation": "AS",
+    "medicinal_legal": null,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": null,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Arizona",
+    "state_abbreviation": "AZ",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "California",
+    "state_abbreviation": "CA",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Colorado",
+    "state_abbreviation": "CO",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Connecticut",
+    "state_abbreviation": "CT",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "District of Columbia",
+    "state_abbreviation": "DC",
+    "medicinal_legal": null,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": null,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Delaware",
+    "state_abbreviation": "DE",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Florida",
+    "state_abbreviation": "FL",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Georgia",
+    "state_abbreviation": "GA",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Guam",
+    "state_abbreviation": "GU",
+    "medicinal_legal": null,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": null,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Hawaii",
+    "state_abbreviation": "HI",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Iowa",
+    "state_abbreviation": "IA",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Idaho",
+    "state_abbreviation": "ID",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Illinois",
+    "state_abbreviation": "IL",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Indiana",
+    "state_abbreviation": "IN",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Kansas",
+    "state_abbreviation": "KS",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Kentucky",
+    "state_abbreviation": "KY",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Louisiana",
+    "state_abbreviation": "LA",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Massachusetts",
+    "state_abbreviation": "MA",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Maryland",
+    "state_abbreviation": "MD",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Maine",
+    "state_abbreviation": "ME",
+    "medicinal_legal": null,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Michigan",
+    "state_abbreviation": "MI",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Minnesota",
+    "state_abbreviation": "MN",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Missouri",
+    "state_abbreviation": "MO",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Mississippi",
+    "state_abbreviation": "MS",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Montana",
+    "state_abbreviation": "MT",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "North Carolina",
+    "state_abbreviation": "NC",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "North Dakota",
+    "state_abbreviation": "ND",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Nebraska",
+    "state_abbreviation": "NE",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "New Hampshire",
+    "state_abbreviation": "NH",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "New Jersey",
+    "state_abbreviation": "NJ",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "New Mexico",
+    "state_abbreviation": "NM",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Nevada",
+    "state_abbreviation": "NV",
+    "medicinal_legal": null,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "New York",
+    "state_abbreviation": "NY",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Ohio",
+    "state_abbreviation": "OH",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Oklahoma",
+    "state_abbreviation": "OK",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Oregon",
+    "state_abbreviation": "OR",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Pennsylvania",
+    "state_abbreviation": "PA",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Puerto Rico",
+    "state_abbreviation": "PR",
+    "medicinal_legal": null,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": null,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Rhode Island",
+    "state_abbreviation": "RI",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "South Carolina",
+    "state_abbreviation": "SC",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "South Dakota",
+    "state_abbreviation": "SD",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Tennessee",
+    "state_abbreviation": "TN",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Texas",
+    "state_abbreviation": "TX",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Utah",
+    "state_abbreviation": "UT",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Virginia",
+    "state_abbreviation": "VA",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Virgin Islands",
+    "state_abbreviation": "VI",
+    "medicinal_legal": null,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": null,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Vermont",
+    "state_abbreviation": "VT",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Washington",
+    "state_abbreviation": "WA",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": true,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Wisconsin",
+    "state_abbreviation": "WI",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "West Virginia",
+    "state_abbreviation": "WV",
+    "medicinal_legal": true,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": null,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  },
+  { 
+    "state": "Wyoming",
+    "state_abbreviation": "WY",
+    "medicinal_legal": false,
+    "medicinal_law_passed": "",
+    "medicinal_legal_law_in_effect": "",
+    "recreational_legal": false,
+    "recreational_law_passed": "",
+    "recreational_law_in_effect": ""
+  }
+]
