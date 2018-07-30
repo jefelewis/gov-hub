@@ -34,6 +34,7 @@
     "mongoose": "^5.2.5",
     "react": "^16.4.1",
     "react-apollo": "^2.1.9",
+    "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.4.1"
   },
   "devDependencies": {
