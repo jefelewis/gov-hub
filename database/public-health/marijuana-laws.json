@@ -5,9 +5,14 @@
     "medicinal_legal": true ,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true  ,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Alabama",
@@ -15,9 +20,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Arkansas",
@@ -25,9 +35,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   }, 
   { 
     "state": "American Samoa",
@@ -35,9 +50,14 @@
     "medicinal_legal": null,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": null,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Arizona",
@@ -45,9 +65,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "California",
@@ -55,9 +80,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Colorado",
@@ -65,9 +95,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Connecticut",
@@ -75,19 +110,29 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "District of Columbia",
     "state_abbreviation": "DC",
-    "medicinal_legal": null,
+    "medicinal_legal": true,
     "medicinal_law_passed": "",
-    "medicinal_legal_law_in_effect": "",
+    "medicinal_legal_law_in_effect": "02/26/2015",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": null,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Delaware",
@@ -95,9 +140,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Florida",
@@ -105,9 +155,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Georgia",
@@ -115,9 +170,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Guam",
@@ -125,9 +185,14 @@
     "medicinal_legal": null,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": null,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Hawaii",
@@ -135,9 +200,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Iowa",
@@ -145,9 +215,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Idaho",
@@ -155,9 +230,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Illinois",
@@ -165,9 +245,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Indiana",
@@ -175,9 +260,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Kansas",
@@ -185,9 +275,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Kentucky",
@@ -195,9 +290,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Louisiana",
@@ -205,9 +305,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Massachusetts",
@@ -215,9 +320,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Maryland",
@@ -225,9 +335,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Maine",
@@ -235,9 +350,14 @@
     "medicinal_legal": null,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Michigan",
@@ -245,9 +365,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Minnesota",
@@ -255,9 +380,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Missouri",
@@ -265,9 +395,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Mississippi",
@@ -275,9 +410,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Montana",
@@ -285,9 +425,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "North Carolina",
@@ -295,9 +440,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "North Dakota",
@@ -305,9 +455,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Nebraska",
@@ -315,9 +470,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "New Hampshire",
@@ -325,9 +485,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "New Jersey",
@@ -335,9 +500,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "New Mexico",
@@ -345,9 +515,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Nevada",
@@ -355,9 +530,14 @@
     "medicinal_legal": null,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "New York",
@@ -365,9 +545,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Ohio",
@@ -375,9 +560,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Oklahoma",
@@ -385,9 +575,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Oregon",
@@ -395,9 +590,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Pennsylvania",
@@ -405,9 +605,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Puerto Rico",
@@ -415,9 +620,14 @@
     "medicinal_legal": null,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": null,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Rhode Island",
@@ -425,9 +635,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "South Carolina",
@@ -435,9 +650,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "South Dakota",
@@ -445,9 +665,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Tennessee",
@@ -455,9 +680,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Texas",
@@ -465,9 +695,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Utah",
@@ -475,9 +710,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Virginia",
@@ -485,9 +725,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Virgin Islands",
@@ -495,9 +740,14 @@
     "medicinal_legal": null,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": null,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Vermont",
@@ -505,9 +755,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
-    "recreational_legal": false,
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
+    "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Washington",
@@ -515,9 +770,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": true,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Wisconsin",
@@ -525,9 +785,14 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "West Virginia",
@@ -535,9 +800,14 @@
     "medicinal_legal": true,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": null,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   },
   { 
     "state": "Wyoming",
@@ -545,8 +815,13 @@
     "medicinal_legal": false,
     "medicinal_law_passed": "",
     "medicinal_legal_law_in_effect": "",
+    "medicinal_restrictions": "",
+    "medicinal_bill": "",
+    "medicinal_bill_link": "",
     "recreational_legal": false,
     "recreational_law_passed": "",
-    "recreational_law_in_effect": ""
+    "recreational_law_in_effect": "",
+    "recreational_bill": "",
+    "recreational_bill_link": ""
   }
 ]
