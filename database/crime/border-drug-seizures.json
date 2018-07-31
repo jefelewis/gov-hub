@@ -1,0 +1,177 @@
+[
+  { 
+    "year": 2012,
+    "unit": "(lb) Pounds",
+    "office_of_field_operations": {
+      "cocaine": 45260,
+      "heroin": 3780,
+      "marijuana": 522614,
+      "methamphetamine": 14131,
+      "fentanyl": "Not available"
+    },
+    "border_patrol":  {
+      "cocaine": 12161,
+      "heroin": 430,
+      "marijuana": 2299864,
+      "methamphetamine": 3715,
+      "fentanyl": "Not available"
+    },
+    "agencies_combined":  {
+      "cocaine": "",
+      "heroin": "",
+      "marijuana": "",
+      "methamphetamine": "",
+      "fentanyl": "Not available"
+    }
+  },
+  { 
+    "year": 2013,
+    "unit": "(lb) Pounds",
+    "office_of_field_operations": {
+      "cocaine": 39075,
+      "heroin": 3990,
+      "marijuana": 469995,
+      "methamphetamine": 20739,
+      "fentanyl": "Not available"
+    },
+    "border_patrol":  {
+      "cocaine": 4696,
+      "heroin": 576,
+      "marijuana": 2430123,
+      "methamphetamine": 3580,
+      "fentanyl": "Not available"
+    },
+    "agencies_combined":  {
+      "cocaine": "",
+      "heroin": "",
+      "marijuana": "",
+      "methamphetamine": "",
+      "fentanyl": "Not available"
+    }
+  },
+  { 
+    "year": 2014,
+    "unit": "(lb) Pounds",
+    "office_of_field_operations": {
+      "cocaine": 41312,
+      "heroin": 4314,
+      "marijuana": 437950,
+      "methamphetamine": 23234,
+      "fentanyl": "Not available"
+    },
+    "border_patrol":  {
+      "cocaine": 4554,
+      "heroin": 606,
+      "marijuana": 1922545,
+      "methamphetamine": 3930,
+      "fentanyl": "Not available"
+    },
+    "agencies_combined":  {
+      "cocaine": "",
+      "heroin": "",
+      "marijuana": "",
+      "methamphetamine": "",
+      "fentanyl": "Not available"
+    }
+  }
+  ,  { 
+    "year": 2015,
+    "unit": "(lb) Pounds",
+    "office_of_field_operations": {
+      "cocaine": 38145,
+      "heroin": 5530,
+      "marijuana": 602795,
+      "methamphetamine": 29001,
+      "fentanyl": "Not available"
+    },
+    "border_patrol":  {
+      "cocaine": 11220,
+      "heroin": 518,
+      "marijuana": 1538307,
+      "methamphetamine": 6443,
+      "fentanyl": "Not available"
+    },
+    "agencies_combined":  {
+      "cocaine": "",
+      "heroin": "",
+      "marijuana": "",
+      "methamphetamine": "",
+      "fentanyl": "Not available"
+    }
+  },
+  { 
+    "year": 2016,
+    "unit": "(lb) Pounds",
+    "office_of_field_operations": {
+      "cocaine": 52803,
+      "heroin": 4224,
+      "marijuana": 515381,
+      "methamphetamine": 37703,
+      "fentanyl": 440
+    },
+    "border_patrol":  {
+      "cocaine": 5474,
+      "heroin": 567,
+      "marijuana": 1294063,
+      "methamphetamine": 8223,
+      "fentanyl": "Not available"
+    },
+    "agencies_combined":  {
+      "cocaine": "",
+      "heroin": "",
+      "marijuana": "",
+      "methamphetamine": "",
+      "fentanyl": ""
+    }
+  },
+  { 
+    "year": 2017,
+    "unit": "(lb) Pounds",
+    "office_of_field_operations": {
+      "cocaine": 62331,
+      "heroin": 3925,
+      "marijuana": 361564,
+      "methamphetamine": 50569,
+      "fentanyl": 1196
+    },
+    "border_patrol":  {
+      "cocaine": 9346,
+      "heroin": 953,
+      "marijuana": 861231,
+      "methamphetamine": 10328,
+      "fentanyl": 181
+    },
+    "agencies_combined":  {
+      "cocaine": "",
+      "heroin": "",
+      "marijuana": "",
+      "methamphetamine": "",
+      "fentanyl": ""
+    }
+  },
+  { 
+    "year": 2018,
+    "unit": "(lb) Pounds",
+    "office_of_field_operations": {
+      "cocaine": 41445,
+      "heroin": 3782,
+      "marijuana": 228782,
+      "methamphetamine": 52613,
+      "fentanyl": 1165
+    },
+    "border_patrol":  {
+      "cocaine": 5766,
+      "heroin": 377,
+      "marijuana": 386555,
+      "methamphetamine": 8162,
+      "fentanyl": 311
+    },
+    "agencies_combined":  {
+      "cocaine": "",
+      "heroin": "",
+      "marijuana": "",
+      "methamphetamine": "",
+      "fentanyl": ""
+    }
+  }
+]
