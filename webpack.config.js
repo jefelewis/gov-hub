@@ -37,7 +37,7 @@ const CONFIG = {
   // Plugins
   plugins: [
     new HTMLWEBPACKPLUGIN({
-      template: './client/src/index.html'
+      template: PATH.join(__dirname, './client/src/index.html')
     })
   ]
 };
