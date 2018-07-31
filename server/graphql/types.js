@@ -1,13 +1,14 @@
-// GraphQL: TypeDefs
-const TYPEDEFS = `
-  type Query {
-    sampleFunction: SampleType
-  }
+// Imports: GraphQL
+import { gql } from 'apollo-server-express';
 
-  type SampleType {
-    sampleProperty: String
+
+// GraphQL: TypeDefs
+const TYPEDEFS = gql`
+
+  type Query {
+    test: String
   }
-`
+`;
 
 
 // Exports
