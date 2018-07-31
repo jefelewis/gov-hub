@@ -6,6 +6,16 @@
   text-align: center;
 }
 
+#topnav ul{
+  list-style-type: none;
+  margin: 0;
+  margin-left: auto;
+  background-color: rgb(0,93,164);
+  padding: 1.5%;
+  display:inline-block;
+  width: 100%;
+}
+
 h1 {
   font: bold;
 }
